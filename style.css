@@ -219,7 +219,7 @@ header {
 
 .hero .left {
   width: 50%;
-  background-image: url('../illustration_style_website/img/hero_bg.png');
+  background-image: url('img/hero_bg.png');
   background-position: 100% 50%;
   background-repeat: no-repeat;
   background-size: cover;
